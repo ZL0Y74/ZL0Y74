@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ZL0Y74
+- 👀 I’m interested in Python & QBasic
+- 🌱 I’m currently learning Python
+- 📫 How to reach me zloy9774@gmail.com
